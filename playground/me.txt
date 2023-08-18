@@ -1,0 +1,6 @@
+{{#user}
+Name: Aparna
+Skills: Python, Django, HTML, CSS, GitHub, SQLite
+Email: aparnaksekhar@gmail.com
+{{/user}}
+
